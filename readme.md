@@ -1,5 +1,5 @@
 <div align="left">
-<h1 align="center">Konichiwa!, Orewa Sayooj<h1>
+<h1 align="center">Hello There!, Sayooj Here...<h1>
 <hr>
 <h2>Github Stats:</h2>
   <p><img src="https://github-readme-stats.vercel.app/api?username=sayooxx&show_icons=true&theme=midnight-purple"></p>
