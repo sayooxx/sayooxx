@@ -4,7 +4,7 @@
 <h2>Github Stats:</h2>
   <p><img src="https://github-readme-stats.vercel.app/api?username=sayooxx&show_icons=true&theme=midnight-purple"></p>
 <h3>Language Stats:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=github_dark"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=midnight-purple"></p>
 <h2>Languages and Tools:<h2>
   <p>
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C"/>
