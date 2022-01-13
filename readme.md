@@ -36,3 +36,10 @@
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   </p>
+  <table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Tiktodz/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+  
